@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+
+#input{
+    height: 50px;
+    width: 50%;
+    font-size: larger;
+}
+
+#calculadora{
+    margin-top: 50px;
+}
+
+#resultado{
+    font-size: 100px;
+    width: 90%;
+
+}
+
+.footer{
+    
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    font-size: xx-large;
+    
+    
+}
+
